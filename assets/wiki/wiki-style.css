@@ -1,0 +1,11 @@
+:root{
+    --main-nav-background: rgba(255, 255, 255, 0.3);
+    --main-nav-border: rgb(219, 219, 219);
+    --main-nav-wiki-logo-size: 35px;
+    --main-nav-wiki-title-color: #0e0e0e;
+
+    --main-nav-list-color: #292929;
+    --main-nav-list-logo-size: 25px;
+
+    --theme-color: red;
+}
